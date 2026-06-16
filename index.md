@@ -6,7 +6,7 @@
 
 # About Me 🚀
 
-Data Engineer operating in a Business Systems Analyst capacity within enterprise banking and regulatory environments. Specialized in source-to-target mapping, data lineage, and end-to-end data flow validation across complex systems. Experienced in requirements gathering, functional documentation, and cross-system impact analysis to support enterprise data integration.
+Business Systems Analyst with 4 years experience within enterprise banking and regulatory environments. Specialized in source-to-target mapping, data lineage, and end-to-end data flow validation across complex systems. Experienced in requirements gathering, functional documentation, and cross-system impact analysis to support enterprise data integration.
 
 Hands-on experience building containerized data pipelines using Docker and Ubuntu, integrated with GitLab CI/CD for automated deployment and validation workflows. Experienced with Databricks, Spark SQL, and Oracle SQL, delivering data pipelines with a strong emphasis on data quality, reconciliation, and regulatory reporting. Proven ability to translate business and regulatory requirements into scalable, governance-aligned data solutions that improve data integrity and operational reliability.
 
